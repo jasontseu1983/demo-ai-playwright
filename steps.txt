@@ -1,0 +1,15 @@
+1. nodejs installation
+
+2. vscode & playwright extension
+
+3. npm init playwright@latest
+
+4. npm install auto-playwright -D
+
+5. npm install dotenv
+
+6.  setup openAI API token https://platform.openai.com/docs/overview to obtain the API key
+
+7. npm i @zerostep/playwright -D    
+
+8. create account in zerostep https://zerostep.com/

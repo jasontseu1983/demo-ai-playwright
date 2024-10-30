@@ -1,0 +1,20 @@
+{
+  "name": "demo-ai-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.8.4",
+    "@zerostep/playwright": "^0.1.5",
+    "auto-playwright": "^1.16.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "dotnet": "^1.1.4"
+  }
+}
